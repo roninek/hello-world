@@ -1,2 +1,3 @@
 # hello-world
-test repo for hello world example
+Test repo for hello world example
+dodajemy troche tekstu i poptawiamy literki na górze
